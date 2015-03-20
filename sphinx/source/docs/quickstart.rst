@@ -24,7 +24,7 @@ then you can use::
 
     $ pip install bokeh
 
-To download from source, clone the `Bokeh git repo <https://github.com/ContinuumIO/bokeh>`_,
+To download from source, clone the `Bokeh repository <https://github.com/ContinuumIO/bokeh>`_ from Github,
 then run::
 
     $ python setup.py install
