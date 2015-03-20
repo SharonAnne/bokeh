@@ -4,25 +4,25 @@
 Quickstart
 ##########
 
+Some python distributions include Bokeh at installation.  To check if 
+your python installation includes Bokeh, run the command in python::
+
+    $ import bokeh
+    
+If you get the error `No module named bokeh` then you will need to download and 
+install.
+
 Downloading
 -----------
-
-There are several ways to get Bokeh:
 
 If you are using the `Anaconda Python distribution <http://continuum.io/anaconda>`_::
 
     $ conda install bokeh
 
-This will install the examples into the ``examples/`` subdirectory of
-your Anaconda installation directory.
-
 If you are confident you have dependencies like NumPy, Pandas, and Redis installed,
 then you can use ``pip``::
 
     $ pip install bokeh
-
-This will not install any examples, and you will need to clone the git
-repository and look in the ``examples/`` directory there.
 
 To download from source, clone the `Bokeh git repo <https://github.com/ContinuumIO/bokeh>`_,
 then run::
