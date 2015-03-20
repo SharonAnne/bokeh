@@ -9,8 +9,8 @@ your python installation includes Bokeh, run the command in python::
 
     $ import bokeh
     
-If you get the error `No module named bokeh` then you will need to download and 
-install.
+If you get the error ``No module named bokeh`` then you will need to download and 
+install the module.
 
 Downloading
 -----------
