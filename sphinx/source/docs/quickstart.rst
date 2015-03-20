@@ -19,8 +19,8 @@ If you are using the `Anaconda Python distribution <http://continuum.io/anaconda
 
     $ conda install bokeh
 
-If you are confident you have dependencies like NumPy, Pandas, and Redis installed,
-then you can use ``pip``::
+If you have the dependencies like NumPy, Pandas, and Redis installed,
+then you can use::
 
     $ pip install bokeh
 
