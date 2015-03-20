@@ -15,7 +15,7 @@ install the module.
 Downloading
 -----------
 
-If you are using the `Anaconda Python distribution <http://continuum.io/anaconda>` run in the command window_::
+If you are using the `Anaconda Python distribution <http://continuum.io/anaconda>`_ run in the command window::
 
     $ conda install bokeh
 
