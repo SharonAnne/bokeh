@@ -32,6 +32,13 @@ then run::
 If you are using Windows, please see the
 :ref:`install_windows`.
 
+Plotting
+-------------------------
+
+To generate a preformatted scatter plot:
+
+The same plot can be built from individual glyphs using:
+
 
 Generate Static HTML Files
 --------------------------
